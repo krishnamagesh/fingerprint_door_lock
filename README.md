@@ -4,6 +4,13 @@ Small project i made in the summer
 A fingerprint-based door lock built with an Arduino Uno R4, an R307 optical fingerprint sensor, a 5V relay, and a 12V solenoid lock. A 16x2 I2C LCD shows the system status: **Welcome** by default, then **Access Granted** or **Access Denied** after each scan.
 
 <!-- Add a photo or GIF of your build here -->
+<img width="1157" height="466" alt="image" src="https://github.com/user-attachments/assets/7fd30eac-3839-4148-8b4f-be62aed3628e" />
+<img width="930" height="527" alt="lockpic1" src="https://github.com/user-attachments/assets/725c92a5-2ebe-48a3-8e41-71b0d92c0bbf" />
+<img width="931" height="522" alt="lockpic2" src="https://github.com/user-attachments/assets/960b86dd-0588-4e2f-94be-942dd29b7dcf" />
+<img width="927" height="525" alt="lockpic3" src="https://github.com/user-attachments/assets/6fcd4abc-b570-41c2-8867-51100a2831f3" />
+
+
+
 <!-- ![Project photo](images/project.jpg) -->
 
 ## Features
@@ -121,9 +128,3 @@ These constants are near the top of `fingerprint_door_lock.ino`:
 │   └── fingerprint_enroll.ino
 └── README.md
 ```
-
-## Credits and License
-
-Based on the Adafruit Fingerprint Sensor Library examples by Limor Fried/Ladyada for Adafruit Industries, released under the BSD license. The original header comment is preserved in the source files as the license requires.
-
-This project is released under the BSD 3-Clause License. See `LICENSE` for details.
