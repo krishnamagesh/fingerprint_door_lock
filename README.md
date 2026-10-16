@@ -31,7 +31,6 @@ A fingerprint-based door lock built with an Arduino Uno R4, an R307 optical fing
 | 12V solenoid door lock | "Power to unlock" type |
 | 12V power supply | Rated for your solenoid's current draw; powers the lock only |
 | 16x2 LCD with I2C backpack | Address `0x27` (or `0x3F`) |
-| 1N4007 diode | Flyback protection across the solenoid |
 | Jumper wires, breadboard | |
 
 ## Wiring
